@@ -1,0 +1,6 @@
+django
+mysqlclient
+djangorestframework
+drf-spectacular
+djangorestframework-simplejwt
+pillow
